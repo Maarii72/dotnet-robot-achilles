@@ -3,7 +3,9 @@ Este repositório contém a atividade prática do Curso "Abstraindo um Jogo de R
 
 ## 1.Abstração
 -Criar uma "forma" de alguma coisa do mundo real.
+
 -Propriedades.
+
 -Métodos.
 
 ## 2.Herança
