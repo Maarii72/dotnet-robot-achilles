@@ -1,9 +1,9 @@
 namespace dotnet_robot_achilles.src.Entities
 {
-    public class Arus
+    public class Hero
     {
         //construtor
-        public Arus(string Name, int Level, string HeroType){
+        public Hero(string Name, int Level, string HeroType){
             //this = esse //ta olhando para ele mesmo, para não se confundir com outro name de outra classe
             this.Name = Name;
             this.Level= Level;
@@ -23,7 +23,8 @@ namespace dotnet_robot_achilles.src.Entities
         }
 
         //método para atacar
-        public string Attack(){
+        //virtual:permite que qualquer um alterar o comportamento
+        public virtual string Attack(){
             return this.Name + " Atacou com a sua espada";
         }
 
