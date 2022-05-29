@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mari\\Documents\\projetos\\DigitalInnovationOne\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj": {}
+    "C:\\Users\\Mari\\Documents\\GitHub\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mari\\Documents\\projetos\\DigitalInnovationOne\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj": {
+    "C:\\Users\\Mari\\Documents\\GitHub\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mari\\Documents\\projetos\\DigitalInnovationOne\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj",
+        "projectUniqueName": "C:\\Users\\Mari\\Documents\\GitHub\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj",
         "projectName": "dotnet-robot-achilles",
-        "projectPath": "C:\\Users\\Mari\\Documents\\projetos\\DigitalInnovationOne\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj",
+        "projectPath": "C:\\Users\\Mari\\Documents\\GitHub\\dotnet-robot-achilles\\dotnet-robot-achilles.csproj",
         "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mari\\Documents\\projetos\\DigitalInnovationOne\\dotnet-robot-achilles\\obj\\",
+        "outputPath": "C:\\Users\\Mari\\Documents\\GitHub\\dotnet-robot-achilles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mari\\AppData\\Roaming\\NuGet\\NuGet.Config"

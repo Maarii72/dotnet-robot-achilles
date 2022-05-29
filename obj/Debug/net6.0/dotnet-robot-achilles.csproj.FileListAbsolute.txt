@@ -1,0 +1,15 @@
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\bin\Debug\net6.0\dotnet-robot-achilles.exe
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\bin\Debug\net6.0\dotnet-robot-achilles.deps.json
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\bin\Debug\net6.0\dotnet-robot-achilles.runtimeconfig.json
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\bin\Debug\net6.0\dotnet-robot-achilles.dll
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\bin\Debug\net6.0\dotnet-robot-achilles.pdb
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.csproj.AssemblyReference.cache
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.AssemblyInfoInputs.cache
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.AssemblyInfo.cs
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.csproj.CoreCompileInputs.cache
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.dll
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\refint\dotnet-robot-achilles.dll
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.pdb
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\dotnet-robot-achilles.genruntimeconfig.cache
+C:\Users\Mari\Documents\GitHub\dotnet-robot-achilles\obj\Debug\net6.0\ref\dotnet-robot-achilles.dll
