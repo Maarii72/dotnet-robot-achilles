@@ -15,6 +15,6 @@ Este repositório contém a atividade prática do Curso "Abstraindo um Jogo de R
 -Criar um efeito capsulado:fácil consumo de algo (no caso regras de negócio).
 
 ## 4.Polimorfismo
--.
+-Muitas formas para mesma coisa.
 
 

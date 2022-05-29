@@ -5,14 +5,14 @@ namespace dotnet_robot_achilles{
   class Program{
     static void Main (string[] args)
     {
-      Hero arus = new Hero("Arus", 23, "knight");
+      Knight arus = new Knight("Arus", 23, "knight");
       //Arus oponnet = new Arus("Maleficus", 99, "Devil");
       Wizard wizard = new Wizard("Jennica", 23, "White Wizard");
       //caixinha azul propriedade roxa: método
       
 
-      Console.WriteLine(arus.Attack());
-      Console.WriteLine(wizard.Attack());
+      Console.WriteLine(wizard.Attack(4));
+      Console.WriteLine(wizard.Attack(8));
     }
   }
 }

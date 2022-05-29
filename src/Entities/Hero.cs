@@ -1,6 +1,6 @@
 namespace dotnet_robot_achilles.src.Entities
 {
-    public class Hero
+    public abstract class Hero
     {
         //construtor
         public Hero(string Name, int Level, string HeroType){
